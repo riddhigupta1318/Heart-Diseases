@@ -1,3 +1,5 @@
+#Heart Diseases Analysis using Tableau
+
 Real wealth is in good health. During the epidemic, we were all aware of the brutal impact that
 COVID-19 had on everyone, regardless of status. For better future planning, you must analyze this
 health and medical data. Although there are 76 attributes in this database, all published
